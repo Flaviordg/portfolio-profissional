@@ -1,1 +1,3 @@
+OPTIMIZE TABLE clientes;
+OPTIMIZE TABLE pedidos;
 

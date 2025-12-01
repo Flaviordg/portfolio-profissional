@@ -7,3 +7,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho formação compl
 Sobre mim
 Meu nome é Flávio Rodrigues, sou apaixonado por tecnologia, resolução de problemas e desenvolvimento de sistemas. Tenho conhecimento na área de Banco de Dados, incluindo modelagem, SQL e administração, adquirido por meio de cursos e prática.
 Atualmente busco oportunidades de estágio e projetos para aplicar e expandir minhas habilidades.
+
+

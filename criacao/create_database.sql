@@ -1,0 +1,2 @@
+CREATE DATABASE empresa_db;
+CREATE USE.SQL
